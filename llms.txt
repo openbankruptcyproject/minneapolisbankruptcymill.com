@@ -1,0 +1,20 @@
+# Minneapolis Bankruptcy Mill: Warning Signs and What the Court Data Shows
+> Learn about minneapolis bankruptcy mill: warning signs and what the court data shows | minneapolisbankruptcymill.com in our free 2026...
+
+## About
+minneapolisbankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Minneapolis Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://minneapolisbankruptcymill.com/
+- Chapter 13 Bankruptcy Mills in Minneapolis: Red Flags and What to Watch For: https://minneapolisbankruptcymill.com/chapter-13-minneapolis.html
+- Chapter 7 Bankruptcy in Minneapolis: Costs, Timeline and What to Know: https://minneapolisbankruptcymill.com/chapter-7-minneapolis.html
+- How to Check Your Minneapolis Bankruptcy Attorney's Track Record: https://minneapolisbankruptcymill.com/how-to-check.html
+- 5 Warning Signs of a Bankruptcy Mill in Minneapolis: https://minneapolisbankruptcymill.com/warning-signs.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
